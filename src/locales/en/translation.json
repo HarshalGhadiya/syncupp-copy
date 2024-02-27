@@ -1,0 +1,47 @@
+{
+  "agency": {
+    "dashboard": {},
+    "client": {},
+    "agenct_team": {},
+    "invoice": {},
+    "agreement": {
+      "table": {
+        "title": "Agreement",
+        "columns": {
+          "title": "TITLE"
+        }
+      }
+    }
+  },
+  "admin": {
+    "coupon_management": {
+      "table": {
+        "title": "Coupon Management",
+        "add_button": " Add Coupon",
+        "del_popup": {
+          "title": "Delete the Coupon",
+          "des": "Are you sure you want to delete?"
+        }
+      },
+      "form": {
+        "title": "Add Coupon",
+        "brandNameLabel": "Brand Name",
+        "couponCodeLabel": "Coupon Code",
+        "discountTitleLabel": "Discount Title",
+        "websiteUrlLabel": "Website Url",
+        "brandLogoLabel": "Brand Logo",
+        "brandLogoErrorMessage": "Brand Logo error message",
+        "cancelButton": "Cancel",
+        "saveButton": "Save",
+        "placeholder": {
+          "brand_name": "Enter Brand Name",
+          "coupon_code": "Enter Coupon code",
+          "discount_title": "Enter Discount Title",
+          "website_url": "Enter Website Url"
+        }
+      }
+    }
+  },
+  "client": {},
+  "team": {}
+}

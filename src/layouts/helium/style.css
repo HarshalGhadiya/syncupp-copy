@@ -1,0 +1,11 @@
+.active\:enabled\:bg-gray-1000:enabled:active{
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.demo_test{
+    
+    z-index: 999;
+}
+/* table thead th {
+    text-transform: capitalize !important;
+} */
